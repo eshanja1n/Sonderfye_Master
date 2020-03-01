@@ -1,4 +1,4 @@
-## FOR LIVE DEMO, VISIT SONDERFYE.COM
+## FOR LIVE DEMO, VISIT OUR [SITE](http://sonderfye.com/)
 
 
 ## Inspiration
